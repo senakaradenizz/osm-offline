@@ -1,0 +1,7 @@
+.thumb.png
+layers/
+data/
+*.xml
+node_modules/
+tmp
+localconfig.json
